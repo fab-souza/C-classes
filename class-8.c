@@ -14,5 +14,5 @@ main()
 	y = numy * numy;
 	z = numz * numz;
 	fim = x + y + z;
-	printf("A soma dos quadrdos dos trEs  valores é: %.2f", fim);
+	printf("A soma dos quadrdos dos três valores é: %.2f", fim);
 }
